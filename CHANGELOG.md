@@ -1,8 +1,7 @@
 # CHANGELOG
 
 
-
-## v8.0.0-alpha.2 (2023-02-01)
+## Unreleased
 
 ### Breaking
 
@@ -1653,6 +1652,7 @@ This was merged locally to fix conflicts. ([`0dad451`](https://github.com/python
 * Typo, link broken
 
 Change `.. _angular commit guidelins:` to `.. _angular commit guidelines:` ([`721a6dd`](https://github.com/python-semantic-release/python-semantic-release/commit/721a6dd895aa5f0072fc76fe0325f23e565492c4))
+
 
 
 ## v3.11.2 (2018-06-10)
